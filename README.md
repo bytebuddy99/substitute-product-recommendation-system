@@ -4,4 +4,4 @@ knowledge graph based substitute product recomendation system
 
 The application is deployed here:
 
-👉 https://substitute-kg.streamlit.app/
+👉 https://kg-sub-system99.streamlit.app/
