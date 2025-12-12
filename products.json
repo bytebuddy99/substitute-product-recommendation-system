@@ -1,0 +1,301 @@
+[
+  {
+    "id": "p1",
+    "name": "Amul Full Cream Milk 1L",
+    "category": "dairy",
+    "brand": "Amul",
+    "price": 60.0,
+    "stock": 1,
+    "tags": [
+      "veg",
+      "lactose_free=no"
+    ]
+  },
+  {
+    "id": "p2",
+    "name": "Amul Toned Milk 1L",
+    "category": "dairy",
+    "brand": "Amul",
+    "price": 55.0,
+    "stock": 10,
+    "tags": [
+      "veg",
+      "lactose_free=no"
+    ]
+  },
+  {
+    "id": "p3",
+    "name": "Nutri Soya Milk 1L",
+    "category": "dairy_alt",
+    "brand": "Nutri",
+    "price": 45.0,
+    "stock": 1,
+    "tags": [
+      "veg",
+      "lactose_free=yes"
+    ]
+  },
+  {
+    "id": "p4",
+    "name": "Raw Almond Milk 1L",
+    "category": "dairy_alt",
+    "brand": "Raw",
+    "price": 120.0,
+    "stock": 3,
+    "tags": [
+      "veg",
+      "lactose_free=yes"
+    ]
+  },
+  {
+    "id": "p5",
+    "name": "Britannia White Bread 400g",
+    "category": "bakery",
+    "brand": "Britannia",
+    "price": 40.0,
+    "stock": 15,
+    "tags": [
+      "veg",
+      "lactose_free=yes"
+    ]
+  },
+  {
+    "id": "p6",
+    "name": "Britannia Brown Bread 400g",
+    "category": "bakery",
+    "brand": "Britannia",
+    "price": 45.0,
+    "stock": 0,
+    "tags": [
+      "veg",
+      "lactose_free=yes"
+    ]
+  },
+  {
+    "id": "p7",
+    "name": "Parle-G Biscuits 150g",
+    "category": "snacks",
+    "brand": "Parle",
+    "price": 20.0,
+    "stock": 0,
+    "tags": [
+      "veg",
+      "sugar_free=no"
+    ]
+  },
+  {
+    "id": "p8",
+    "name": "Marie Light Biscuits 150g",
+    "category": "snacks",
+    "brand": "Tasty",
+    "price": 25.0,
+    "stock": 12,
+    "tags": [
+      "veg",
+      "sugar_free=yes"
+    ]
+  },
+  {
+    "id": "p9",
+    "name": "Tata Tea 250g",
+    "category": "beverages",
+    "brand": "Tata",
+    "price": 150.0,
+    "stock": 7,
+    "tags": [
+      "veg",
+      "caffeine=yes"
+    ]
+  },
+  {
+    "id": "p10",
+    "name": "Nescafe Coffee 100g",
+    "category": "beverages",
+    "brand": "Nescafe",
+    "price": 200.0,
+    "stock": 6,
+    "tags": [
+      "veg",
+      "caffeine=yes"
+    ]
+  },
+  {
+    "id": "p11",
+    "name": "Sugar 1kg",
+    "category": "staple",
+    "brand": "DailyFresh",
+    "price": 45.0,
+    "stock": 25,
+    "tags": [
+      "veg",
+      "sugar=yes"
+    ]
+  },
+  {
+    "id": "p12",
+    "name": "Brown Sugar 1kg",
+    "category": "staple",
+    "brand": "NatureSweet",
+    "price": 80.0,
+    "stock": 5,
+    "tags": [
+      "veg",
+      "sugar=yes"
+    ]
+  },
+  {
+    "id": "p13",
+    "name": "ForVegg Paneer 200g",
+    "category": "dairy",
+    "brand": "ForVegg",
+    "price": 90.0,
+    "stock": 2,
+    "tags": [
+      "veg",
+      "lactose_free=no"
+    ]
+  },
+  {
+    "id": "p14",
+    "name": "Amul Butter 100g",
+    "category": "dairy",
+    "brand": "Amul",
+    "price": 120.0,
+    "stock": 1,
+    "tags": [
+      "veg",
+      "lactose_free=no"
+    ]
+  },
+  {
+    "id": "p15",
+    "name": "Organic Oats 500g",
+    "category": "cereal",
+    "brand": "HealthyGrain",
+    "price": 110.0,
+    "stock": 10,
+    "tags": [
+      "veg",
+      "gluten_free=no"
+    ]
+  },
+  {
+    "id": "p16",
+    "name": "Corn Flakes 250g",
+    "category": "cereal",
+    "brand": "Kellogg",
+    "price": 140.0,
+    "stock": 4,
+    "tags": [
+      "veg",
+      "gluten_free=yes"
+    ]
+  },
+  {
+    "id": "p17",
+    "name": "Honey Jar 250g",
+    "category": "condiment",
+    "brand": "BeePure",
+    "price": 220.0,
+    "stock": 6,
+    "tags": [
+      "veg",
+      "sugar=yes"
+    ]
+  },
+  {
+    "id": "p18",
+    "name": "Peanut Butter 200g",
+    "category": "spread",
+    "brand": "Nutty",
+    "price": 180.0,
+    "stock": 3,
+    "tags": [
+      "veg",
+      "gluten_free=yes"
+    ]
+  },
+  {
+    "id": "p19",
+    "name": "Maggi Noodles 70g",
+    "category": "instant_food",
+    "brand": "Maggi",
+    "price": 15.0,
+    "stock": 30,
+    "tags": [
+      "veg",
+      "contains_mono_sodium=yes"
+    ]
+  },
+  {
+    "id": "p20",
+    "name": "MTR Ready Mix Dal 300g",
+    "category": "instant_food",
+    "brand": "MTR",
+    "price": 90.0,
+    "stock": 9,
+    "tags": [
+      "veg",
+      "lactose_free=yes"
+    ]
+  },
+  {
+    "id": "p21",
+    "name": "Soy Sauce 200ml",
+    "category": "condiment",
+    "brand": "Lee",
+    "price": 120.0,
+    "stock": 5,
+    "tags": [
+      "veg",
+      "contains_soy=yes"
+    ]
+  },
+  {
+    "id": "p22",
+    "name": "Glucose Biscuit 100g",
+    "category": "snacks",
+    "brand": "HealthBite",
+    "price": 30.0,
+    "stock": 7,
+    "tags": [
+      "veg",
+      "sugar=yes"
+    ]
+  },
+  {
+    "id": "p23",
+    "name": "Coconut Milk 400ml",
+    "category": "dairy_alt",
+    "brand": "CocoGood",
+    "price": 95.0,
+    "stock": 4,
+    "tags": [
+      "veg",
+      "lactose_free=yes"
+    ]
+  },
+  {
+    "id": "p24",
+    "name": "Lactose Free Milk 1L",
+    "category": "dairy",
+    "brand": "LactoCare",
+    "price": 85.0,
+    "stock": 6,
+    "tags": [
+      "veg",
+      "lactose_free=yes"
+    ]
+  },
+  {
+    "id": "p25",
+    "name": "Iodized Salt 1kg",
+    "category": "staple",
+    "brand": "DailyFresh",
+    "price": 30.0,
+    "stock": 0,
+    "tags": [
+      "veg"
+    ]
+  }
+]
