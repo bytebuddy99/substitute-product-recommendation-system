@@ -99,6 +99,7 @@ substitute-product-recommendation-system/
 ├── README.md            # Documentation
 └── (optional) docs/, screenshots/, tests/
 
+
 📦 requirements.txt
 
 Install these dependencies before running the project:
